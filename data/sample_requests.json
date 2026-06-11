@@ -1,0 +1,6 @@
+{
+    "requests": [
+        {"client_id": "user_1", "timestamp": 1700000000},
+        {"client_id": "user_2", "timestamp": 1700000001}
+    ]
+}
